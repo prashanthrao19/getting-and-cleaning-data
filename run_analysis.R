@@ -1,6 +1,6 @@
 run_analysis<- function(){
         # set working directory
-        setwd("C:\\Users\\rao\\Documents\\data")
+        setwd(".\\Documents\\data")
         # read test data
         test_x <- read.table("./test/X_test.txt")
         test_y <- read.table("./test/y_test.txt")
