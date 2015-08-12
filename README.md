@@ -1,13 +1,13 @@
 # getting-and-cleaning-data
 Couresra Course: Getting and Cleaning Data
-Assignment Submission Files
 
--[data](https://github.com/prashanthrao19/getting-and-cleaning-data/tree/master/data)
--[run_analysis.R](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/run_analysis.R)
--[README.md]
--[CookBook.md]
--[merged-tidy-data](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/merged_tidy_data.txt)
--[calculated-tidy-data](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/calculated_tidy_data.txt)
+Assignment Submission Files
+- [data](https://github.com/prashanthrao19/getting-and-cleaning-data/tree/master/data)
+- [run_analysis.R](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/run_analysis.R)
+- [README.md](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/README.md)
+- [CookBook.md]
+- [merged-tidy-data](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/merged_tidy_data.txt)
+- [calculated-tidy-data](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/calculated_tidy_data.txt)
 
 Instructions
 
