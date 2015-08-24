@@ -5,7 +5,7 @@ Assignment Submission Files
 - [data](https://github.com/prashanthrao19/getting-and-cleaning-data/tree/master/data)
 - [run_analysis.R](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/run_analysis.R)
 - [README.md](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/README.md)
-- [CookBook.md]
+- [CookBook.md](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/Code%20Book.MD)
 - [merged-tidy-data](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/merged_tidy_data.txt)
 - [calculated-tidy-data](https://github.com/prashanthrao19/getting-and-cleaning-data/blob/master/calculated_tidy_data.txt)
 
